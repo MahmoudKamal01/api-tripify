@@ -1,1 +1,1 @@
-# api-tripify
+# tripify-API
